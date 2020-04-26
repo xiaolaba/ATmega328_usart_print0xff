@@ -8,4 +8,9 @@ For loop and loop counter, specify "short"
 count 0 -255
 
 problem and solution.  
-https://xiaolaba.wordpress.com/2015/05/28/arduino-why-c-code-and-problem-for-loop/
+https://xiaolaba.wordpress.com/2015/05/28/arduino-why-c-code-and-problem-for-loop/  
+
+  
+### result  
+  
+![usart_print0xff_result.JPG](usart_print0xff_result.JPG)
